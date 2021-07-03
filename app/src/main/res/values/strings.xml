@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleApp</string>
+    <string name="glide_example">Glide Example</string>
+    <string name="asynchttpclient_example">AsyncHttpClient Example</string>
+    <string name="recyclerview_example">RecyclerView example</string>
+    <string name="check_the_logs">Check the logs!</string>
+</resources>
